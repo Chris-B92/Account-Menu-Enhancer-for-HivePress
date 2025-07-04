@@ -1,0 +1,31 @@
+/* Admin styles for Account Menu Enhancer for HivePress */
+.amehp-menu-item {
+    background: #f9f9f9;
+}
+.amehp-menu-item label {
+    display: inline-block;
+    margin: 5px 0;
+}
+.amehp-add-menu-item {
+    margin-top: 10px;
+}
+#amehp-menu-preview ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#amehp-menu-preview li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+}
+.amehp-position-field + .description {
+    display: block;
+    margin-top: 5px;
+    font-style: italic;
+}
+.amehp-url-field {
+    border: 1px solid #ddd;
+}
+.amehp-url-field.invalid {
+    border-color: red;
+}
